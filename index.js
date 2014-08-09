@@ -1,2 +1,2 @@
 
-module.exports = require("./lib/resourcefuljs-express.js");
+module.exports = require("./lib/resourcefuljs-express");
